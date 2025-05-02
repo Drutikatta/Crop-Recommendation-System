@@ -1,4 +1,5 @@
 # 🌾 Crop Recommendation System
+DS sem6-Microproject
 
 Efficient crop selection is crucial for maximizing yield, ensuring sustainability, and improving farmer profitability. This project uses a Random Forest machine learning model to recommend the most suitable crop based on soil and environmental parameters like NPK levels, pH, temperature, humidity, and rainfall. By leveraging data-driven insights, it aims to support smarter, more sustainable agricultural practices.
 
